@@ -1,0 +1,30 @@
+{
+    "folders": [
+        {
+            "path": "CONSOLA"
+        },
+        {
+            "path": "CPU"
+        },
+        {
+            "path": "FILE_SYSTEM"
+        },
+        {
+            "path": "KERNEL"
+        },
+        {
+            "path": "MEMORIA"
+        },
+        {
+            "path": "shared"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "kernel_utils.h": "c",
+            "config.h": "c",
+            "kernel_thread.h": "c",
+            "protocolo.h": "c"
+        }
+    }
+}
